@@ -1,0 +1,46 @@
+.b
+{
+	color:white;
+}
+.b:hover
+{
+	background: #cc9966;
+	border:1px solid #cc9966;
+	color:white;
+}
+.c1
+{
+	margin-top:-50%;
+}
+.cd
+{
+	width:%;
+	padding:%;
+	transition:transform ;
+
+}
+.cd:hover
+{
+	transform:scale(1.1,1.1);
+	transition-duration:2s;
+	box-shadow:2px 10px 15px #C0C0C0;
+}
+.cb
+{
+	transition:transform;
+}
+.cb:hover
+{
+	transform:scale(1.1,1.1);
+	transition-duration:2s;
+	box-shadow:2px 10px 15px #C0C0C0;
+}
+.fa
+{
+	transition:transform;
+}
+.fa:hover
+{
+	transform: scale(1.1,1.1);
+	background:#cc9966;
+}
